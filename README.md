@@ -12,7 +12,7 @@ The project focuses on creating a simple zombie-themed gameplay experience, incl
 
 ## My Contribution
 
-- Followed and implemented the concepts leaarnt online
+- Followed and implemented the concepts learnt online
 - Developed the game using Unity
 - Implemented gameplay mechanics using C#
 - Designed and arranged gameplay elements
